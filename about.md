@@ -9,9 +9,6 @@ image:
   credit: FLS.net
   creditlink: http://www.fls.net
 ---
-I am currently a second-year computer engineering student at RIT in Rochester, NY. I have a passion for great design, mobile technology, and exceptional user experience. I enjoy rock climbing, the outdoors, and The Black Keys. My hometown will always be Nashville, TN. 
+I am currently a third-year computer engineering student at RIT in Rochester, NY. I am also pursuing a double minor in computer science and digital business. I have a passion for design, mobile, and exceptional user experience. My interests include rock climbing, the outdoors, and The Black Keys.
 
-My weapons of choice are Vim and Xcode 5. I speak fluent Java, Objective-C, Python, and I can carry a conversation in VHDL.
-
-
-My resume is available [here.](http://treyyadon.com/Resume.pdf)
+You can contact me at <richardfyadon@gmail.com>
